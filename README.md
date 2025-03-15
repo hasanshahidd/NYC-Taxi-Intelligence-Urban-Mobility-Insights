@@ -2,7 +2,7 @@
 <h3 align="center">NYC Taxi Intelligence: Urban Mobility Insights</h3>
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x200?text=NYC+Taxi+Intelligence" alt="Project Banner"/>
+  <img src="images/DALL·E 2025-03-15 11.23.19 - A digital banner for 'NYC Taxi Intelligence_ Urban Mobility Insights'. The background features a stylized map of New York City with highlighted taxi r.webp" alt="Project Banner"/>
 </p>
 
 <br />
